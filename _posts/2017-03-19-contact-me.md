@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-03-19T16:07:32.257Z'
-datePublished: '2017-03-19T16:07:33.200Z'
+dateModified: '2017-03-19T16:10:16.449Z'
+datePublished: '2017-03-19T16:10:17.279Z'
 title: Contact Me
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJw9j8sKwjAURH-lZG_SWnxiKlUqCG5EcNGNtLnXJNQ0NY0W_XrfLs8wM8zM9NEVBoPWCU6U9007ZQysaKm0Vp6QCmvY0TrTMmDIolW6brabnVDxoVeb_SHDLI2iXdX3DWbnSR3e43wl8iru5bcF3MZe62rpOnbV2L1q5mhKBEDg3l2QBJ0GrzgZDUMSKNRSeU4G4RPes0rrAB0nTzaFk7r-Wf7CNx-SZGML0LWklM7Y51TyANqVSsY
 sourcePath: _posts/2017-03-19-contact-me.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-19T16:07:33.200Z'
-_type: MediaObject
+url: contact-me/index.html
+_type: Article
 
 ---
 # Contact Me
