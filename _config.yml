@@ -33,6 +33,9 @@ navigation:
   - name: About
     id: 966b8681-837a-449a-869b-ff9038fa17d9
     type: content
+  - name: Contact
+    id: 9ca67cd3-d805-4685-b61b-b2b646417dbd
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ebd2e8-ba64-4a88-97ad-ec156d72806d.png
 title: Cognitive Design
