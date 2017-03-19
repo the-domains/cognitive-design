@@ -51,8 +51,8 @@ purpose:
     url: 'http://stephendowell.net/developer-services'
     label: Services
   - type: external
-    url: 'http://stephendowell.net/developer-services/'
-    label: Services
+    url: 'https://live.vcita.com/site/steve.dowell'
+    label: Book Now
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ebd2e8-ba64-4a88-97ad-ec156d72806d.png
