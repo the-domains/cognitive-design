@@ -72,3 +72,5 @@ purpose:
   - type: external
     url: 'https://live.vcita.com/site/steve.dowell'
     label: Book Now
+analytics:
+  google: UA-27033558-25
