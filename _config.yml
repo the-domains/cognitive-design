@@ -1,14 +1,16 @@
+layout_spectrum: 0.6890500054613568
+typography_spectrum: 0.4587169172993797
 color:
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  brandStrength: 0.9192018781322986
-  lightness: 0.18796529085375369
-  saturation: 0.13136777468025684
-  rhythmicContrast: 0.5250735294539481
+    - '#C8CBB6'
+    - '#9EA18D'
+    - '#646964'
+    - '#424445'
+    - '#E8EBDF'
+  brandStrength: 0.7617635739445318
+  lightness: 0.6313617228735054
+  saturation: 0.7968261766769361
+  rhythmicContrast: 0.7878853604010316
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -17,8 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Cognitive Design
-layout_spectrum: 0.31042208429425955
-typography_spectrum: 0.7347155853640288
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
