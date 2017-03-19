@@ -17,7 +17,7 @@ author:
   email: stephen.dowell@comcast.net
   url: 'http://stephendowell.net'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f11bbcb-88e6-4fc0-b5ea-f1bdfc27786e.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9884760-0f4c-4793-b738-16c40b3ca56d.png
 name: Cognitive Design
 colors:
   brandColors:
@@ -37,7 +37,7 @@ navigation:
     id: 9ca67cd3-d805-4685-b61b-b2b646417dbd
     type: content
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ebd2e8-ba64-4a88-97ad-ec156d72806d.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/618e8706-614c-493b-b8f5-d15decbb4413.png
 title: Cognitive Design
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
