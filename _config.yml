@@ -12,6 +12,8 @@ color:
   rhythmicContrast: 0.7878853604010316
 github: true
 layout_spectrum: 0.6890500054613568
+analytics:
+  google: UA-27033558-25
 author:
   name: Steve Dowell
   email: stephen.dowell@comcast.net
@@ -35,6 +37,9 @@ navigation:
     type: content
   - name: Contact
     id: 9ca67cd3-d805-4685-b61b-b2b646417dbd
+    type: content
+  - name: Contact Me
+    id: 179d75fc-345a-4fdc-96cc-9996c600a066
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/618e8706-614c-493b-b8f5-d15decbb4413.png
@@ -72,5 +77,3 @@ purpose:
   - type: external
     url: 'https://live.vcita.com/site/steve.dowell'
     label: Book Now
-analytics:
-  google: UA-27033558-25
