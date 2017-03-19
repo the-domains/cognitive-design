@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -49,8 +48,8 @@ title: Cognitive Design
 description: Sophistication through Simplicity
 purpose:
   - type: external
-    url: 'https://live.vcita.com/site/steve.dowell'
-    label: Book Now
+    url: 'http://stephendowell.net/developer-services'
+    label: Services
   - type: external
     url: 'http://stephendowell.net/developer-services/'
     label: Services
