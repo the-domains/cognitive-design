@@ -4,22 +4,22 @@
         <description><![CDATA[Cognitive Design]]></description>
         <link>https://thegrid.ai/cognitive-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Mar 2017 14:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2017 14:07:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cognitive-design/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Mar 2017 14:03:10 GMT</pubDate>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<h1>About</h1>,<p>In 1996, I started to independently provide services in the areas of:</p>,<ol><li>Management &amp; Technology Consulting</li><li>E-Commerce applications</li><li><strong><a href="http://stephendowell.net/developer-services/" title="Web Design &amp; Development">Website Development</a></strong></li></ol>,<p>During the final years of the previous millennium, a large portion of my work was dedicated to ensuring Y2K compliancy of large, legacy systems. Following the burst of the dot com bubble at the dawn of the new century, a passion for building websites took hold which has grown progressively stronger ever since.</p>,<p>I now focus primarily on constructing websites. Why? Because I enjoy it! And by enjoying your work, it is no longer considered a job, but a pass time.</p>]]></description>
-            <link>https://thegrid.ai/cognitive-design/about/index.html</link>
-            <guid isPermaLink="false">966b8681-837a-449a-869b-ff9038fa17d9</guid>
-            <pubDate>Sun, 19 Mar 2017 13:55:45 GMT</pubDate>
-        </item>
+        <pubDate>Sun, 19 Mar 2017 14:07:00 GMT</pubDate>
         <item>
             <title><![CDATA[What’s Your Identity?]]></title>
             <description><![CDATA[<h1>What’s Your Identity?</h1>,<p>Establishing a presence on today’s world wide web is feasible not only for business, informational or promotional purposes, but for personal reasons as well. Each and every individual should have an identity in cyber-space, whether by a personal website, blog, or merely a virtual business card.</p>]]></description>
             <link>https://thegrid.ai/cognitive-design/whats-your-identity/index.html</link>
             <guid isPermaLink="false">0a97edf1-e220-442a-9a39-3573d2b9db65</guid>
             <pubDate>Sun, 19 Mar 2017 13:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<h1>About</h1>,<p>In 1996, I started to independently provide services in the areas of:</p>,<ol><li>Management &amp; Technology Consulting</li><li>E-Commerce applications</li><li><strong><a href="http://stephendowell.net/developer-services/" title="Web Design &amp; Development">Website Development</a></strong></li></ol>,<p>During the final years of the previous millennium, a large portion of my work was dedicated to ensuring Y2K compliancy of large, legacy systems. Following the burst of the dot com bubble at the dawn of the new century, a passion for building websites took hold which has grown progressively stronger ever since.</p>,<p>I now focus primarily on constructing websites. Why? Because I enjoy it! And by enjoying your work, it is no longer considered a job, but a pass time.</p>]]></description>
+            <link>https://thegrid.ai/cognitive-design/about/index.html</link>
+            <guid isPermaLink="false">966b8681-837a-449a-869b-ff9038fa17d9</guid>
+            <pubDate>Sun, 19 Mar 2017 13:55:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
