@@ -5,17 +5,19 @@ description: >-
   business, informational or promotional purposes, but for personal reasons as
   well. Each and every individual should have an identity in cyber-space,
   whether by a personal website, blog, or merely a virtual business card.
-dateModified: '2017-03-19T13:19:50.741Z'
-datePublished: '2017-03-19T13:47:45.439Z'
+dateModified: '2017-03-19T13:55:21.460Z'
+datePublished: '2017-03-19T13:55:22.131Z'
 title: What’s Your Identity?
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2017-03-19-establishing-a-presence-on-todays-world-wide-web-is-feasibl.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-03-19T13:47:45.439Z'
-_type: Blurb
+url: whats-your-identity/index.html
+_type: Article
 
 ---
 # What's Your Identity?
