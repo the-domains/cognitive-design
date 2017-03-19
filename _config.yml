@@ -1,4 +1,3 @@
-layout_spectrum: 0.6890500054613568
 typography_spectrum: 0.4587169172993797
 color:
   brandColors:
@@ -11,6 +10,15 @@ color:
   lightness: 0.6313617228735054
   saturation: 0.7968261766769361
   rhythmicContrast: 0.7878853604010316
+github: true
+layout_spectrum: 0.6890500054613568
+author:
+  name: Steve Dowell
+  email: stephen.dowell@comcast.net
+  url: 'http://stephendowell.net'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f11bbcb-88e6-4fc0-b5ea-f1bdfc27786e.png
+name: Cognitive Design
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +26,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Cognitive Design
+navigation:
+  - name: Home
+    id: 0a97edf1-e220-442a-9a39-3573d2b9db65
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ebd2e8-ba64-4a88-97ad-ec156d72806d.png
+title: Cognitive Design
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,23 +42,22 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/0695fc3f-f5e1-45c9-9c4a-2529cb25f970.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: Cognitive Design
 description: Sophistication through Simplicity
 purpose:
   - type: external
@@ -53,12 +66,3 @@ purpose:
   - type: external
     url: 'https://live.vcita.com/site/steve.dowell'
     label: Book Now
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/99ebd2e8-ba64-4a88-97ad-ec156d72806d.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f11bbcb-88e6-4fc0-b5ea-f1bdfc27786e.png
-author:
-  name: Steve Dowell
-  email: stephen.dowell@comcast.net
-  url: 'http://stephendowell.net'
